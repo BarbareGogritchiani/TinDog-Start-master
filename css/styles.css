@@ -113,6 +113,9 @@ p {
   padding: 100px;
   text-align: center;
 }
+.signup {
+  margin-top: 40px;
+}
 
 /* CTA Section */
 #cta {
